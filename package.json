@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "@salesforce/core": "^2.9.3",
-    "@saurabhdeep/cli-test-common": "^1.0.1",
+    "@saurabhdeep/cli-test-common": "^1.0.2",
     "lodash": "^4.17.20",
     "sfdx-node": "^2.2.0"
   }

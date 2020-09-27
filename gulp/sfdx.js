@@ -1,4 +1,4 @@
-const { gulp, yargs: y } = require('@appirio/appirio/singleton');
+const { gulp, yargs: y } = require('@saurabhdeep/cli-test-common/singleton');
 
 /**
  * TASK: sfdx:org:list

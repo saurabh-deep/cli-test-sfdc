@@ -294,10 +294,10 @@
   dependencies:
     tslib "^1.10.0"
 
-"@saurabhdeep/cli-test-common@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@saurabhdeep/cli-test-common/-/cli-test-common-1.0.1.tgz#06c616be947db21430ca7e581ebab18c6d97136e"
-  integrity sha512-YfJaG/svSqoJJhy8XN97GVb6zUAREKQZMBU5fZOoWbakgda5T8wWC77nlKYvoo5ZGpOsb7MUJArvbDOGde8d+A==
+"@saurabhdeep/cli-test-common@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@saurabhdeep/cli-test-common/-/cli-test-common-1.0.2.tgz#167af59349e97250fffeccc99d73ba93519a89db"
+  integrity sha512-eLUzuPtKv8GlJnT7HW/BfP7V7ie0bUcPAeex8vQyYXq2/n35TBww6enL1/qGxRjrWlfLIgnOqrwGwYWnQ8WE1w==
   dependencies:
     ansi-colors "^1.1.0"
     fancy-log "^1.3.2"
